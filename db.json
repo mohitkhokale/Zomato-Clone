@@ -1,0 +1,11 @@
+{
+    "posts":[
+        {
+            "displayName":"Mohit Khokale",
+            "userName":"Mohit_0734",
+            "verified":true,
+            "description":"hello world i am from github",
+            "image":"https://media2.giphy.com/media/gd09Y2Ptu7gsiPVUrv/giphy.gif"
+        }
+    ]
+}
